@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cilindros", "cilindros\cilindros.csproj", "{DD9AEAA2-D5D4-4FCF-8F4A-B6BC68C6EA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cilindrosWindows", "cilindrosWindows\cilindrosWindows.csproj", "{C25D90C3-9FAA-4668-A938-A3FF06A6A741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9AEAA2-D5D4-4FCF-8F4A-B6BC68C6EA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9AEAA2-D5D4-4FCF-8F4A-B6BC68C6EA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9AEAA2-D5D4-4FCF-8F4A-B6BC68C6EA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9AEAA2-D5D4-4FCF-8F4A-B6BC68C6EA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25D90C3-9FAA-4668-A938-A3FF06A6A741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25D90C3-9FAA-4668-A938-A3FF06A6A741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25D90C3-9FAA-4668-A938-A3FF06A6A741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25D90C3-9FAA-4668-A938-A3FF06A6A741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C2C35E-1586-4C40-8155-949A819058B7}
+	EndGlobalSection
+EndGlobal
